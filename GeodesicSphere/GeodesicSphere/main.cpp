@@ -249,7 +249,7 @@ int main(int argc, char* argv[]) {
 
 	// Load objects
 	m1 = Mesh3("sphere.obj");
-	m1.geodesic();
+	//m1.geodesic();
 
 	// Setup shaders and textures
 //	setShaders();
