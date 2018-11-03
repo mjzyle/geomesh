@@ -1,0 +1,5 @@
+﻿  Face3.cpp
+c:\projects\opengl\geodesicsphere\geodesicsphere\geodesicsphere\face3.cpp(69): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\projects\opengl\geodesicsphere\geodesicsphere\geodesicsphere\face3.cpp(70): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  GeodesicSphere.vcxproj -> C:\Projects\OpenGL\GeodesicSphere\GeodesicSphere\Debug\GeodesicSphere.exe
+  GeodesicSphere.vcxproj -> C:\Projects\OpenGL\GeodesicSphere\GeodesicSphere\Debug\GeodesicSphere.pdb (Partial PDB)
